@@ -1,12 +1,13 @@
 # The Challenge:
 "The challenge is to integrate NASA data, ground-based air quality data, and citizen science data to create an air quality surface that displays the most accurate data for a location and time. Create algorithms that select or weight the  best data from several sources for a specific time and location, and display that information" [*1]
 
+--------------------------------------------------------------------------------------------------------
 # Hawa
 Hawa is one of the NASA challenges for 2019. It is an algorithm that integrates the most accurate data that indicates more efficiency about the Air quality for a specific location and time:
 
 
-
-# Quesitions to answer: ---------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+# Quesitions to answer:
 1. [As long as we deal with an existed data? who is the resource of the input data? Who is going to benefit from our output?]
 >>>
 
@@ -40,8 +41,8 @@ https://www.state.gov/communications-outreach-and-partnerships/#space-apps
 
 [*2] https://2019.spaceappschallenge.org/challenges/living-our-world/surface-air-quality-mission/details
 
-
-# information to the pich presentation:
+-----------------------------------------------------------------------------------------------------
+# information for the presentation:
 the lines that have [**]
 
 
