@@ -124,12 +124,13 @@ https://www.state.gov/wp-content/uploads/2019/10/Reference_Monitor_Data.zip
 contains historical measurements of ground pollutants at each of the 22 locations for various time periods between 2016 and 2019. Each files contains mesuremennt of the PM2.5, P.M10, and trace gas pollutants for time periods and sampling intervals that vary by site.Not all sites have all data for the full period.. 
 
 these data were obtained from the open AQ website.Other historical da
-
+ 
 
 # How is Air Quality Measured?
 - Air quality is measured with Air Quality index, or AQI. it works like thermometer that runs form 0 to 500 degress. However, instead of showing changes in the temperature, the AQI is a way of showing changes in the amount of pollution in the air.https://www.epa.gov/sites/production/files/2014-05/documents/zell-aqi.pdf
 
-
+# PSI ( Pollutant standards index) 
+https://www.haze.gov.sg/docs/default-source/faq/computation-of-the-pollutant-standards-index-(psi).pdf
 
 
 
